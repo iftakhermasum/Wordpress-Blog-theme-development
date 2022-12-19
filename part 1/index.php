@@ -34,7 +34,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <a class="logomain" href="<?php the_permalink(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.png"></a>
+                        <a class="logomain" href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/img/logo.png"></a>
                     </div>
                     <div class="col-md-4">
                         <div class="headrsrchwrp">
